@@ -13,5 +13,17 @@ This code utilizes a webcam feed to track hand movements using the MediaPipe lib
 
 [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
 
+## Software
+
+[p5.js](https://p5js.org/)
+
+[Pose landmark detection with mediapipe](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker#get_started)
+
+
+
+
+
+
+
 
 
