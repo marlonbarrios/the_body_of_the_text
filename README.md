@@ -19,6 +19,8 @@ This code utilizes a webcam feed to track hand movements using the MediaPipe lib
 
 [Pose landmark detection with mediapipe](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker#get_started)
 
+Created during a artistic reserach residency at [Lake Studios Berlin](https://lakestudiosberlin.com/) in February 2024
+
 
 
 
