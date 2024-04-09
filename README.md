@@ -1,4 +1,4 @@
-# Body Tracking with Webcam and Text Rendering
+# The Body of the Text: Body Tracking with Webcam and Text Rendering
 
 ![Screenshot 2024-02-07 at 7 54 07 PM](https://github.com/marlonbarrios/the_body_of_the_text/assets/90220317/4996275b-100c-47c6-9915-b4958f7ac6b3)
 
