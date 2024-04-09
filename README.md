@@ -21,7 +21,7 @@ This code utilizes a webcam feed to track hand movements using the MediaPipe lib
 
 Created during a artistic reserach residency at [Lake Studios Berlin](https://lakestudiosberlin.com/) in February 2024
 
-Thanks to Nahuel Gerths
+Thanks to  the amazing work of [Nahuel Gerth](https://github.com/NahuelGerthVK)
 
 **The MIT License (MIT)**
 
